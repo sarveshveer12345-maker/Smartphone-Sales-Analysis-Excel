@@ -53,11 +53,11 @@ This analysis answers the following business questions:
 
 The dashboard highlights the following key performance indicators:
 
--Total Sales: 769.2M  
+Total Sales: 769.2M  
 
--Total Transactions: 3,835  
+Total Transactions: 3,835  
 
--Average Customer Rating: 3.69
+Average Customer Rating: 3.69
 
 ---
 
