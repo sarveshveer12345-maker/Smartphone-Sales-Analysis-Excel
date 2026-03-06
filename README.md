@@ -119,8 +119,10 @@ Excel features used in this project:
 
 ## Files Included
 
-dataset_preview.png – Screenshot of dataset used in the analysis 
-smartphone_sales_analysis_excel.xlsx – Excel analysis and dashboard   
+dataset_preview.png – Screenshot of dataset used in the analysis
+
+smartphone_sales_analysis_excel.xlsx – Excel analysis and dashboard 
+
 smartphone_sales_dashboard.png – Screenshot of the final Excel dashboard
 
 ---
