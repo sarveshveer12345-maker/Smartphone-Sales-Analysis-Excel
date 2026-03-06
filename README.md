@@ -89,15 +89,15 @@ The Excel dashboard is interactive and allows users to explore smartphone sales 
 
 Key features include:
 
-• **Brand Slicer** – Allows users to analyze sales performance for specific smartphone brands.
+- **Brand Slicer** – Allows users to analyze sales performance for specific smartphone brands.
 
-• **Payment Method Slicer** – Enables comparison of sales based on customer payment preferences.
+- **Payment Method Slicer** – Enables comparison of sales based on customer payment preferences.
 
-• **Month Slicer** – Helps track how smartphone sales change across different months.
+- **Month Slicer** – Helps track how smartphone sales change across different months.
 
-• **Dynamic KPIs** – Metrics such as Total Sales, Total Transactions, and Average Rating automatically update when slicers are applied.
+- **Dynamic KPIs** – Metrics such as Total Sales, Total Transactions, and Average Rating automatically update when slicers are applied.
 
-• **Interactive Pivot Charts** – All charts update instantly based on slicer selections, allowing flexible analysis of the data.
+- **Interactive Pivot Charts** – All charts update instantly based on slicer selections, allowing flexible analysis of the data.
 
 These features allow users to perform flexible sales analysis without modifying the underlying dataset.
 
