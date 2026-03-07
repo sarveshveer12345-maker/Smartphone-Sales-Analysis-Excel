@@ -203,9 +203,9 @@ Smartphone-Sales-Analysis-Excel/
 The Excel workbook contains the following sheets:
 
 README.md - Contains project overview, business objectives, dataset details, dashboard explanation, insights, and recommendations.
-Data - Original dataset used for analysis  
-Pivot_Analysis - Pivot tables and Pivot Charts for intermediate analysis  
-Dashboard - Final interactive Excel dashboard
+smartphone_sales_analysis_excel.xlsx - Excel workbook containing the smartphone sales dataset, pivot tables, and the final interactive dashboard created using charts and slicers.
+dataset_preview.png - Screenshot showing a preview of the smartphone sales dataset used for analysis.  
+smartphone_sales_dashboard.png - Screenshot of the final Excel dashboard visualizing smartphone sales performance.
 
 ---
 
