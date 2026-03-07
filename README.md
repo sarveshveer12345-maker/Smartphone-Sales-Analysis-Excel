@@ -178,11 +178,12 @@ smartphone_sales_dashboard.png – Screenshot of the final Excel dashboard
 
 ## Project Structure
 
-Smartphone-Sales-Analysis-Excel
+Smartphone-Sales-Analysis-Excel/
 │
 ├── README.md
+├── smartphone_sales_analysis_dashboard.xlsx
+│
 ├── dataset_preview.png
-├── smartphone_sales_analysis_excel.xlsx
 └── smartphone_sales_dashboard.png
 
 ---
