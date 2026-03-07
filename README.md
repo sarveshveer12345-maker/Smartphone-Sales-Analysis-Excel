@@ -200,7 +200,6 @@ Smartphone-Sales-Analysis-Excel/
 
 ## Repository Structure
 
-The Excel workbook contains the following sheets:
 
 README.md - Contains project overview, business objectives, dataset details, dashboard explanation, insights, and recommendations.
 
