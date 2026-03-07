@@ -178,11 +178,12 @@ smartphone_sales_dashboard.png – Screenshot of the final Excel dashboard
 
 ## Project Structure
 
-The Excel workbook contains the following sheets:
-
-Data – Original dataset used for analysis  
-Pivot_Analysis – Pivot tables and Pivot Charts for intermediate analysis  
-Dashboard – Final interactive Excel dashboard
+Smartphone-Sales-Analysis-Excel
+│
+├── README.md
+├── dataset_preview.png
+├── smartphone_sales_analysis_excel.xlsx
+└── smartphone_sales_dashboard.png
 
 ---
 
@@ -198,12 +199,12 @@ Dashboard – Final interactive Excel dashboard
 
 ## Repository Structure
 
-Smartphone-Sales-Analysis-Excel
-│
-├── README.md
-├── dataset_preview.png
-├── smartphone_sales_analysis_excel.xlsx
-└── smartphone_sales_dashboard.png
+The Excel workbook contains the following sheets:
+
+README.md - Contains project overview, business objectives, dataset details, dashboard explanation, insights, and recommendations.
+Data - Original dataset used for analysis  
+Pivot_Analysis - Pivot tables and Pivot Charts for intermediate analysis  
+Dashboard - Final interactive Excel dashboard
 
 ---
 
