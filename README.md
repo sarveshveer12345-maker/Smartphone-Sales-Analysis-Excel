@@ -181,7 +181,7 @@ smartphone_sales_dashboard.png – Screenshot of the final Excel dashboard
 Smartphone-Sales-Analysis-Excel/
 │
 ├── README.md
-├── smartphone_sales_analysis_dashboard.xlsx
+├── smartphone_sales_analysis_excel.xlsx
 │
 ├── dataset_preview.png
 └── smartphone_sales_dashboard.png
